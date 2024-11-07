@@ -56,7 +56,7 @@ public class User implements Serializable {
 	}
 
 //just for fun
-	
+	git
 	@Override
 	public String toString() {
 		return "User [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", dateNaissance="
